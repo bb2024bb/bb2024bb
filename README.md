@@ -2,7 +2,7 @@
 
 I'm **Bilal Al-Shami** 💻  
 🎓 AI Student – Al-Razi University  
-👨‍💻 Programmer with skills in **HTML, CSS, Java, and C++**  
+👨‍💻 Programmer with skills in **Python, HTML, CSS, Java, and C++**  
 🚀 Interested in Artificial Intelligence, Data Science, and building smart solutions.  
 
 ---
